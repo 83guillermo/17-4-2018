@@ -1,0 +1,2 @@
+INSERT INTO `alumno`(`DNI`, `Nombre`, `Apellido`, `Edad`) 
+VALUES ("11111","rogelio", "agua","22"),("22222","Alfredo", "Mercurio","33"),("33333","julieta", "roberto","66"),("444444","miguel", "zorro","18"),("55555","bañera", "giratoria","22"),("66666","jorge", "miguel","43")
